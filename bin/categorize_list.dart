@@ -13,6 +13,6 @@ void main() {
     }
   }
   print("Even Numbers: $evenResult");
-  print("Even Numbers: $oddResult");
+  print("odd Numbers: $oddResult");
 
 }
